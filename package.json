@@ -1,0 +1,17 @@
+{
+  "name": "my-npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "repository": {
+    "type":"git",
+    "url":"git+https://github.com/meharshitishu/my-npm-package.git"
+  }
+}
